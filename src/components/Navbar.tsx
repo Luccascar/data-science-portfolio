@@ -38,7 +38,7 @@ const Navbar = () => {
 
           <div className="flex items-center gap-3">
             <a
-              href="https://github.com"
+              href="https://github.com/Luccascar"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground transition-colors hover:text-foreground"
@@ -46,7 +46,7 @@ const Navbar = () => {
               <Github size={18} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/lucas-carvalho-la"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground transition-colors hover:text-foreground"

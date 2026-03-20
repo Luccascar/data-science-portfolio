@@ -24,7 +24,7 @@ const HeroSection = () => {
 
         <div className="flex animate-fade-up items-center justify-center gap-4 opacity-0 [animation-delay:0.4s]">
           <a
-            href="https://github.com"
+            href="https://github.com/Luccascar"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-lg border border-border bg-secondary px-5 py-2.5 text-sm font-medium transition-colors hover:bg-secondary/80">
@@ -33,7 +33,7 @@ const HeroSection = () => {
             GitHub
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/lucas-carvalho-la"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-lg bg-primary px-5 py-2.5 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90">

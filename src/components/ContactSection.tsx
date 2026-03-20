@@ -22,7 +22,7 @@ const ContactSection = () => {
             Email
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/Luccascar"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-lg border border-border bg-secondary px-5 py-2.5 text-sm font-medium transition-colors hover:bg-secondary/80"
@@ -31,7 +31,7 @@ const ContactSection = () => {
             GitHub
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/lucas-carvalho-la"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-lg border border-border bg-secondary px-5 py-2.5 text-sm font-medium transition-colors hover:bg-secondary/80"
