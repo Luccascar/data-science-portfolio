@@ -19,7 +19,7 @@ const Navbar = () => {
           onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
           className="font-heading text-lg font-bold text-gradient"
         >
-          &lt;CD /&gt;
+          {"\n"}
         </button>
 
         <div className="flex items-center gap-6">
